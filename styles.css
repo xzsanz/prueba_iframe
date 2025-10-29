@@ -127,7 +127,7 @@ body {
 
 main {
   flex: 1;
-  padding: 2rem;
+  padding: 6rem;
 }
 
 footer {
@@ -137,3 +137,4 @@ footer {
   color: white;
   font-size: 0.9rem;
 }
+
